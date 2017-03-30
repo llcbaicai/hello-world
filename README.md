@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi man
+I'm new here.There's still so much I need to learn.
+Come on!
