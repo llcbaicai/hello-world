@@ -4,5 +4,5 @@ Main()
 }
 method()
 {
-  print "my name is xiaobaicai";
+  print "my name is llcxiaobaicai";
 }
